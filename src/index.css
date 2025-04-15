@@ -45,7 +45,7 @@ input {
 }
 
 .formDiv {
-  width: 60%;
+  width: 100%;
   border: 1px solid white;
   display: flex;
   flex-direction: column;
@@ -60,17 +60,5 @@ input {
   flex-wrap: wrap;
   width: 90%;
   margin-top: 20px;
-}
-
-.bookCard {
-  display: flex;
-  align-items: center;
   justify-content: center;
-  flex-direction: column;
-  border: 1px solid white;
-  padding: 5px;
-  width: 40%;
-  margin: 15px 10px;
-  background-color: rgb(155, 155, 155);
-  color: black;
 }
